@@ -1,0 +1,70 @@
+header {
+  margin-bottom: 64px;
+}
+
+/*header p {
+  margin-bottom: 32px;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+}*/
+
+h1 {
+  font-size: 48px;
+  color: rgb(71, 62, 62);
+  margin: 0;
+}
+#Descreption {
+  margin-bottom: 12px;
+  font-family: "Oswald", sans-serif;
+  font-size: large;
+}
+
+a {
+  padding: 12px 48px;
+  background-color: rgb(156, 1, 74);
+  color: white;
+  border: 1px solid rgb(167, 1, 78);
+  border-radius: 4px;
+  font-size: 25px;
+  display: inline-block;
+  margin: 0px;
+}
+a:hover {
+  background-color: rgb(199, 13, 97);
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+
+li {
+  margin: 32px;
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
+  padding: 16px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+li:hover {
+  background-color: rgb(173, 105, 95);
+}
+h2 {
+  color: rgb(78, 13, 5);
+  font-family: "Oswald", sans-serif;
+}
+
+/*main p {
+  margin: 12px;
+  color: rgb(71, 29, 22);
+}*/
+
+.highlight-goal {
+  background-color: rgb(201, 121, 111);
+}
+
+.highlight-goal:hover {
+  background-color: rgb(234, 143, 129);
+}
